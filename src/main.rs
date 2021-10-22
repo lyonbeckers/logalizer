@@ -1,6 +1,5 @@
 use anyhow::Result;
 use cli_table::{print_stdout, Cell, CellStruct, Style, Table};
-use rayon::prelude::*;
 use serde::Deserialize;
 use std::{
     collections::HashMap,
