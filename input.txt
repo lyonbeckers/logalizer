@@ -1,0 +1,572 @@
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "B" "bar": "abcd"}
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "B", "bar": "abcd"}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
+{ "type": "B", "bar": "abcd"}
+{ "type": "C", "foo":"bar" }
+{ "type": "B", "foo": "bar", "items":["one", "two"] }
+{ "type": "A", "foo": 4.0 }
+{ "type": "C", "foo": { "bar": [1, 2, 3] }}
